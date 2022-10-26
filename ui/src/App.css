@@ -1,3 +1,7 @@
-.hostName {
-  font-family: "Comic Sans MS";
+.users, .join-button, .project-name {
+  margin: 0;
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
